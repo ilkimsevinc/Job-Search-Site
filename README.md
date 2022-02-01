@@ -26,21 +26,21 @@ Basically, there are 3 actors: company, end-user, hrr (some hrr also end user).
 
 Company page, after login:
 
-• Display the first name and last name of the HRRs that posted a job listing for the company (Part#2.Q5)
+• Display the first name and last name of the HRRs that posted a job listing for the company (Avengers-Company-Database.Q5)
 
 • Display company’s job postings, along with the number of applicants
 
-• Display applications to each posting (Part#2.Q6) if any,
+• Display applications to each posting (Avengers-Company-Database.Q6) if any,
 
 • For either end-user applied to postings,
 
-o Display unemployed end-users (Part#2.Q1, requires slight modification)
+o Display unemployed end-users (Avengers-Company-Database.Q1, requires slight modification)
 
-o Display the one that has been working at the same company for the longest period (Part#2.Q4, requires slight modification)
+o Display the one that has been working at the same company for the longest period (Avengers-Company-Database.Q4, requires slight modification)
 
-o Display the number of applications of each (Part#2.Q7, requires slight modification)
+o Display the number of applications of each (Avengers-Company-Database.Q7, requires slight modification)
 
-o Display the one with maximum experience (Part#2.Q8, requires slight modification)
+o Display the one with maximum experience (Avengers-Company-Database.Q8, requires slight modification)
 
 • Display internship postings, if any.
 
@@ -52,9 +52,9 @@ End-user page, after login:
 
 • List open job postings, open internship postings separately
 
-• Display the company with highest paying job’s posting. (Part#2.Q3)
+• Display the company with highest paying job’s posting. (Avengers-Company-Database.Q3)
 
-• Display some appropriate search environment to run queries 11, 12 and 13 of Part#2.
+• Display some appropriate search environment to run queries 11, 12 and 13 of Avengers-Company-Database.
 
 HRR Page, after login:
 
